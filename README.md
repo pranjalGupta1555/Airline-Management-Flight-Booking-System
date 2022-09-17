@@ -1,0 +1,2 @@
+# Airline-Management-Flight-Booking-System
+A web application which consists of a dashboard view for system admin that provides analytical information of each airline’s performance based on the ratings given by the passengers. Also includes a dashboard view for each airline admin which provides analytical information of individual crew members’ part of that airline based on the ratings given by the passengers, and booking feature for the customers.
